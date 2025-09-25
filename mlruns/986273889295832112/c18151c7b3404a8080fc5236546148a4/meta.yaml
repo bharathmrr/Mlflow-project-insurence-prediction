@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/986273889295832112/c18151c7b3404a8080fc5236546148a4/artifacts
+end_time: 1758737345280
+entry_point_name: ''
+experiment_id: '986273889295832112'
+lifecycle_stage: active
+run_id: c18151c7b3404a8080fc5236546148a4
+run_name: capricious-steed-498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758737296023
+status: 3
+tags: []
+user_id: lenovo

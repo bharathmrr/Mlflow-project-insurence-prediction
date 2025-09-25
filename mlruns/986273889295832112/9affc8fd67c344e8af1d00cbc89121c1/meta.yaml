@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/986273889295832112/9affc8fd67c344e8af1d00cbc89121c1/artifacts
+end_time: 1758739491429
+entry_point_name: ''
+experiment_id: '986273889295832112'
+lifecycle_stage: active
+run_id: 9affc8fd67c344e8af1d00cbc89121c1
+run_name: learned-skink-921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758739461562
+status: 3
+tags: []
+user_id: lenovo

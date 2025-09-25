@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/986273889295832112/5c242720cd5244cca99850f39a58e6af/artifacts
+end_time: 1758737229222
+entry_point_name: ''
+experiment_id: '986273889295832112'
+lifecycle_stage: active
+run_id: 5c242720cd5244cca99850f39a58e6af
+run_name: gregarious-stoat-501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758737228537
+status: 4
+tags: []
+user_id: lenovo

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/986273889295832112/70bc08ffcf3b42c58ded8888c4cb90e1/artifacts
+end_time: 1758738051823
+entry_point_name: ''
+experiment_id: '986273889295832112'
+lifecycle_stage: active
+run_id: 70bc08ffcf3b42c58ded8888c4cb90e1
+run_name: intelligent-kite-45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758738022315
+status: 3
+tags: []
+user_id: lenovo

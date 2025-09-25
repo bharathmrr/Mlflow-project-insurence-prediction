@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/986273889295832112/00eabbc578be410aadb80f1d64d5a41d/artifacts
+end_time: 1758738005818
+entry_point_name: ''
+experiment_id: '986273889295832112'
+lifecycle_stage: active
+run_id: 00eabbc578be410aadb80f1d64d5a41d
+run_name: intelligent-eel-855
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758737974330
+status: 3
+tags: []
+user_id: lenovo

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/986273889295832112/f02e57709c6a48e58c7a296fc2a552fb/artifacts
+end_time: 1758732503434
+entry_point_name: ''
+experiment_id: '986273889295832112'
+lifecycle_stage: active
+run_id: f02e57709c6a48e58c7a296fc2a552fb
+run_name: auspicious-cub-577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758732502793
+status: 4
+tags: []
+user_id: lenovo

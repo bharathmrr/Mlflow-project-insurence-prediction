@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/986273889295832112/33566ab57da34c3fbdb2bdc9294ffcdb/artifacts
+end_time: 1758737278771
+entry_point_name: ''
+experiment_id: '986273889295832112'
+lifecycle_stage: active
+run_id: 33566ab57da34c3fbdb2bdc9294ffcdb
+run_name: fortunate-boar-755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758737278230
+status: 4
+tags: []
+user_id: lenovo
